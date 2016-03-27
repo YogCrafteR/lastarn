@@ -1,0 +1,22 @@
+var lastarn = require("_$64_lastarn");
+var server = require("/server/server.js")
+
+function lastarn('desktop'){
+	if(desktop) {
+		desktop = true do var po = require("po");
+	} else {
+		desktop = true 	
+	}
+function server('server'){
+	this.createServer
+	this.createConfig
+	this.config {
+		config.name = ("lastarn");
+		config.ip = ("127.0.0.1");
+		config.port = ("8080");
+		config.totalIP = ("127.0.0.1:8080");
+		config.type = ("HackServer");
+		config.hackType = ("ddos");
+	}
+}
+}
